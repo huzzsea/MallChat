@@ -35,7 +35,7 @@
         <spring-data-commons.version>2.7.5</spring-data-commons.version>
         <jjwt.version>0.9.1</jjwt.version>
         <logstash-logback.version>7.2</logstash-logback.version>
-        <minio.version>8.4.5</minio.version>
+        <minio.version>8.5.5</minio.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <lombok.version>1.18.10</lombok.version>
         <netty-all.version>4.1.76.Final</netty-all.version>
